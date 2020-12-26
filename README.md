@@ -1,0 +1,1 @@
+This is a simple module that provides an almost identical API to Roblox's [AnalyticsService](https://developer.roblox.com/en-us/api-reference/class/AnalyticsService). It should be used when utilizing [my PlayFab SDK](https://github.com/grilme99/RobloxPlayFabSDK).
